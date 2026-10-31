@@ -1,0 +1,13 @@
+Package             Version Editable project location
+------------------- ------- ---------------------------------------------
+click               8.5.0
+coverage            7.17.0
+deptry              0.25.1
+iniconfig           2.3.1
+packaging           26.3
+pluggy              1.7.0
+pygments            2.21.0
+pytest              9.1.1
+pytest-cov          7.1.0
+python-example-app  0.1.0   /home/askoren/MyPythonProjects/python-package
+requirements-parser 0.13.1
